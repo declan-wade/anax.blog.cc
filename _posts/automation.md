@@ -1,10 +1,9 @@
 ---
+layout: post
 author: Declan Wade
-tags: [homelab, automation]
 title: Automating with Ansible
 description: I wanna do as little as possible
 date: 2023-01-21
-layout: post
 blog: true
 ---
 
